@@ -6,3 +6,15 @@ ClipABit is a semantic search engine that enables video editors to search throug
 
 ### How does it work?
 We take all the raw footage someone uploads, index it and save its context in a vector database that can be queried to find the most relevant clips instantly. All the indexing is done via a SLURM job that runs on WatCloud, which then stores the embeddings and raw footage in AWS. Upon querying, another job embeds your input and compares it against the vectors stored in the database, finds the most relevant ones and returns the videos associated with those embeddings.
+
+## Journey
+
+## The Team
+This project couldn't have been possible without the leadership of our amazing technical project managers and the dedication of our core members
+
+#### TPMS
+- Eshaan Mehta: [Email](mailto:e3mehta@uwaterloo.ca) [LinkedIn](https://www.linkedin.com/in/eshaan-mehta-136a6924b/)
+- Safiya Makada: [Email](mailto:smakada@uwaterloo.ca) [LinkedIn](https://www.linkedin.com/in/safiya-makada/)
+
+#### Core Members
+tbd
