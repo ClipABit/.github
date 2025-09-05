@@ -1,2 +1,8 @@
-# Welcome to the ClipABit project github
-### Led by Eshaan Mehta and Safiya Makada
+# Welcome to the ClipABit GitHub!
+#### Led by Eshaan Mehta and Safiya Makada 
+
+### What is ClipABit?
+ClipABit is a semantic search engine that enables video editors to search through their footage using natural language, saving them the time it takes to manually search through their files. Think of it as an ```AI-powered Ctrl+F``` tool for videos. You can search based on the context of the clip, location, entities and people. You can use it directly in an editor like Davinci Resolve or in the cloud through our web client.
+
+### How does it work?
+We take all the raw footage someone uploads, index it and save its context in a vector database that can be queried to find the most relevant clips instantly. All the indexing is done via a SLURM job that runs on WatCloud, which then stores the embeddings and raw footage in AWS. Upon querying, another job embeds your input and compares it against the vectors stored in the database, finds the most relevant ones and returns the videos associated with those embeddings.
