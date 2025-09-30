@@ -17,4 +17,11 @@ This project couldn't have been possible without the leadership of our amazing t
 - Safiya Makada: [Email](mailto:smakada@uwaterloo.ca) [LinkedIn](https://www.linkedin.com/in/safiya-makada/)
 
 #### Core Members
-tbd
+- [Guruprasanna Rajukannan Suresh](https://www.linkedin.com/in/guruprasanna-rajukannan-suresh/)
+- [Kabir Jain](https://www.linkedin.com/in/kabirjain25/)
+- [Sujash Nayak](https://www.linkedin.com/in/sujash-nayak/)
+- [Ethan McManus](https://www.linkedin.com/in/ethan-mcmanus-302512302/)
+- [Justin Wu](https://www.linkedin.com/in/justin-wu-171481162/)
+- [Yifan Zhang]()
+- [Warren Xu](https://www.linkedin.com/in/warren-xu/)
+- [Adithya Thayyil](https://www.linkedin.com/in/adithayyil/)
