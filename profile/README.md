@@ -22,6 +22,6 @@ This project couldn't have been possible without the leadership of our amazing t
 - [Sujash Nayak](https://www.linkedin.com/in/sujash-nayak/)
 - [Ethan McManus](https://www.linkedin.com/in/ethan-mcmanus-302512302/)
 - [Justin Wu](https://www.linkedin.com/in/justin-wu-171481162/)
-- [Yifan Zhang]()
+- [Yifan Zhang](https://www.linkedin.com/in/yifan-zhang-a120652b3/)
 - [Warren Xu](https://www.linkedin.com/in/warren-xu/)
 - [Adithya Thayyil](https://www.linkedin.com/in/adithayyil/)
