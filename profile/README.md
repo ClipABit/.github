@@ -6,10 +6,10 @@ ClipABit is a semantic search engine that enables video editors to search throug
 ### How does it work?
 We take all the user uploaded footage, index it and save its context in a vector database that can be queried to find the most relevant clips instantly. During indexing, we chunk and normalize videos, extract frames and create embeddings from the visual and audio semantics. This is done using various pre-trained models. At the same time, we also extract any faces from frames, cluster identical ones together and tag them. Upon querying, the user input is compared against the vectors stored in the database, where the most relevant ones are retrieved, ranked, and the respective video clips are returned. 
 
-## What can you find here?
+### What can you find here?
 Here you’ll find repositories for the various projects and initiatives our team is working on. This includes implementations of the core ClipABit product, experimental research into new model architectures, and testing frameworks for evaluating performance. **Feel free to browse around and explore what we’ve been building!**
 
-## The Team
+### The Team
 This project couldn't have been possible without the leadership of our amazing technical project managers and the dedication of our core members
 
 #### Technical Project Managers
